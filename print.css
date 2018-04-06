@@ -1,0 +1,22 @@
+@media print {
+#inner, h1.entry-title, body.search h1.archive-title {
+	padding:0;
+	margin-top:20px;
+}
+.slidedeck-frame, .sd-wrapper {
+	display:block;
+	visibility:visible;
+}
+.one_fourth img {
+	width:80%;
+	padding:0;
+}
+.breadcrumb {
+position:relative;
+padding:0;
+margin:0;
+}
+#sop_tab {
+	display:none;
+}
+}

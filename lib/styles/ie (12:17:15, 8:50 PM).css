@@ -1,0 +1,31 @@
+#title, h2 {
+	font-weight:normal;
+}
+h1.entry-title, body.search h1.archive-title, body.home h1.entry-title {
+	font-size:28px;
+	font-weight:normal;
+}
+.taxonomy-description h1,
+.widget-area h4,
+h4.widgettitle, ul.parent-sidebar-menu li.page_item a  {
+	font-size:18px;
+	font-weight:normal;
+	
+}
+#title-area {
+width:75%;
+}
+input[type="submit"] {
+border: 1px solid #ccc;
+font-family:'proxima-nova-condensed',sans-serif;
+float:right;
+}
+#header #uvasom_wpsearch .s {
+display:block;
+float:left;
+margin: 8px 3px 0 0;
+width: 120px;
+}
+.clearfix {
+	zoom:1;
+}

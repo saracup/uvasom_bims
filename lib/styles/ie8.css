@@ -1,0 +1,34 @@
+.wp-caption,
+.wp-caption-text {
+width: auto9;
+}
+#nav .wrap {
+	width:1140px;
+}
+img { width: auto; }
+/*.menu-primary li  {
+float:left;
+}
+.menu-primary, .menu-primary li {
+	display:inline;
+}*/
+#nav #menu-top-bar.menu.genesis-nav-menu.menu-primary.js-superfish {
+	width:1140px !important;
+}
+#header #uvasom_sitesearch #search-form_local input#q_local {
+font-family: "Roboto Condensed","Helvetica Nueue",Helvetica,Arial,Verdana,sans-serif;
+margin-top:3px;
+margin-bottom:1px;
+width:80%;
+}
+#header #uvasom_sitesearch #search-form_local input.uvasomsearchsubmit  {
+	border:none;
+	border:0px;
+}
+/*UVASOMNAVBAR*/
+#uvasom-menu {
+	top:8px;
+}
+#uvasom-menu-top-bar li.menu-item a {
+padding: 13px 12px 15px 12px;
+}

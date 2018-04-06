@@ -1,0 +1,21 @@
+#healthsystem-inner { 
+	width:1140px;
+}
+#uvasom-footer-nav .wrap {
+	max-width: 1134px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.lens-block-title  {
+	border:1px solid #ccc;
+}
+body.uvasombims #uvasom-menu-top-bar li.menu-item a {
+	font-size: 0.65em;
+}
+@media only screen and (max-width: 1140px) {
+
+#healthsystem-inner { 
+	width:100%;
+}
+
+}

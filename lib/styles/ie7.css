@@ -1,0 +1,110 @@
+.content-sidebar-sidebar #content, .sidebar-content-sidebar #content, .sidebar-sidebar-content #content {
+width: 63%;
+}
+body.home #inner {
+	margin-top:-28px;
+}
+.widgets_on_page ul, .widgets_on_page ul li {
+list-style-image:none;
+}
+#nav .wrap {
+display: inline;
+zoom:1;
+}
+.one_fourth {
+width: 22%;
+}
+#healthsystem {
+	height:40px;
+}
+#uvasom-menu {
+	top:5px;
+}
+div#hs-menu-link {
+width: 150px;
+}
+#home-top-sidebar .soliloquy-container {
+	margin-bottom:0;
+}
+.home .clearfix {
+	display:block;
+	clear:both;
+	zoom:1;
+	margin-top:12px;
+	background: #fff;
+}
+#header #uvasom_wpsearch {
+	margin-right:20px;
+}
+#header #uvasom_sitesearch {
+	margin:0 0 0 0;
+}
+#header #uvasom_sitesearch input.uvasomsearchsubmit {
+	color:#fff;
+}
+#healthsystem_inner #uvasom_sitesearch input.uvasomsearchsubmit {
+	color:#034471;
+}
+div#hs-menu-link {
+}
+.home .widgets_on_page h2 {
+font-size: 13px;
+}
+#header #uvasom_sitesearch #search-form_local input#q_local {
+font-family: "Roboto Condensed","Helvetica Nueue",Helvetica,Arial,Verdana,sans-serif;
+margin-top:0px;
+width:80%;
+}
+#header #uvasom_sitesearch #search-form_local input.uvasomsearchsubmit  {
+	border:none;
+	border:0px;
+}
+#soliloquy-container-455 {
+	border:1px solid #0f0;
+	overflow:hidden;
+}
+
+/*UVASOMNAVBAR*/
+#uvasom-menu {
+	top:4px;
+}
+#uvasom-menu-top-bar li.menu-item a {
+padding: 11px 12px;
+}
+/*Gallery slideshow**/
+	#home-top-sidebar .gss-info {
+	width:100%;
+	font-size:1.0rem;
+	line-height:1.2;
+	padding:0;
+	background-color:#336699;
+	position:relative;
+	clear:both;
+	float:left;
+	}
+	#home-top-sidebar #gslideshow_captions.gss-captions  {
+	position:relative;
+	margin-top:0px;
+	padding:10px;
+	}
+	#home-top-sidebar #gslideshow_captions.gss-captions h2 {
+	visibility:visible;
+	margin:0;
+	padding:0;
+	color:#fff;
+	font-family:'adobe-caslon-pro',Georgia,serif;
+	}
+	#home-top-sidebar #gslideshow_captions.gss-captions h2 a {
+		color:#fff;
+		font-family:'adobe-caslon-pro',Georgia,serif;
+		font-weight:200;
+}
+#home-top-sidebar .gss-container {
+	padding:0;
+}
+.menu-primary li,
+.menu-secondary li,
+#header .menu li {
+display:inline;
+float:left;
+zoom:1;}
